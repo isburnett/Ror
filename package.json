@@ -1,0 +1,12 @@
+{
+  "name": "node-http-proxy-server",
+  "version": "1.0.0",
+  "description": "Simple Node.js reverse proxy using node-http-proxy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "http-proxy": "^1.18.1"
+  }
+}
